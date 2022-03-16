@@ -1,1 +1,3 @@
 # odin-bubble-sort
+
+The bubble sort algorithm was alot of fun to conceptualize, and only took my about 10 minutes once I wrapped my head around the core idea of it. Overall, I'd say that this project reinforced my confidence in my fundamental understanding of how ruby works, which is good because jumping into a new language of ruby has been giving me pause up until this point. Obviously bubble sort is not the most efficient sorting method, but it's a good start on the long road of efficient algorithms.
